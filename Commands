@@ -1,4 +1,4 @@
-THIS IS MASTER BRANCH
+THIS IS DEVELOP BRANCH
 GIT INIT на локальной машине:
 echo "# gitExamples" >> README.md
 git init
